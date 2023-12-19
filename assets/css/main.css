@@ -1777,6 +1777,32 @@ input, select, textarea {
 			display: none;
 		}
 
+/* Link colours */
+
+    a:link {
+      color: #417571; 
+      background-color: transparent; 
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: #004C54;
+      background-color: transparent;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #916c63;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    a:active {
+      color: #addfb3;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
 /* Nav */
 
 	#nav {
