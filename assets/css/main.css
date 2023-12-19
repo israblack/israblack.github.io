@@ -1780,13 +1780,13 @@ input, select, textarea {
 /* Link colours */
 
     a:link {
-      color: #417571; 
+      color: #004C54; 
       background-color: transparent; 
       text-decoration: none;
     }
 
     a:visited {
-      color: #004C54;
+      color: #417571;
       background-color: transparent;
       text-decoration: none;
     }
