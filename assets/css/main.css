@@ -1311,10 +1311,9 @@ input, select, textarea {
 
 	body {
         background: hsla(175, 29%, 36%, 1);
-        background: linear-gradient(215deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
-        background: -moz-linear-gradient(215deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
-        background: -webkit-linear-gradient(215deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
-        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#417571", endColorstr="#004C54", GradientType=1 );
+        background: linear-gradient(135deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
+        background: -moz-linear-gradient(135deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
+        background: -webkit-linear-gradient(135deg, hsla(175, 29%, 36%, 1) 0%, hsla(186, 100%, 16%, 1) 100%);
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
