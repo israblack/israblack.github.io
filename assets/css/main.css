@@ -1390,7 +1390,11 @@ input, select, textarea {
 		font-size: 1.25em;
 		letter-spacing: -0.015em;
 	}
-
+	
+	b {
+		font-size: 1em;
+		letter-spacing: -0.015em;
+	}
 	@media screen and (max-width: 736px) {
 
 		h1 {
