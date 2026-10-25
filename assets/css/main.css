@@ -1373,7 +1373,7 @@ input, select, textarea {
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #363636;
+		color: #361a54;
 	}
 
 	h1 {
@@ -1779,25 +1779,25 @@ input, select, textarea {
 /* Link colours */
 
     a:link {
-      color: #361a54; 
+      color: #993bff; 
       background-color: transparent; 
       text-decoration: none;
     }
 
     a:visited {
-      color: #993bff
+      color: #361a54
       background-color: transparent;
       text-decoration: none;
     }
 
     a:hover {
-      color: #993bff;
+      color: #361a54;
       background-color: transparent;
       text-decoration: underline;
     }
 
     a:active {
-      color: #361a54;
+      color: #993bff;
       background-color: transparent;
       text-decoration: underline;
     }
