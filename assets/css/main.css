@@ -2139,6 +2139,7 @@ input, select, textarea {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
 						margin: 0.25em 0 0 0;
+						color:#993bff
 					}
 
 				@media screen and (max-width: 980px) {
@@ -2179,6 +2180,24 @@ input, select, textarea {
 						}
 
 				}
+
+/* Pubs */
+
+#pubs header p {
+    color: #61615F;
+}
+
+/* CV */
+
+#pubs header p {
+    color: #61615F;
+}
+
+/* Handouts */
+
+#handouts header p {
+    color: #61615F;
+}
 
 /* Footer */
 
