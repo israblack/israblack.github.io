@@ -2,8 +2,8 @@
 @import url("fontawesome-all.min.css");
 
 /*
-	Astral by HTML5 UP
-	html5up.net | @ajlkn
+	Website theme based on Astral by HTML5 UP
+	html5up.net
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
@@ -2134,18 +2134,20 @@ input, select, textarea {
 						line-height: 1.25em;
 						margin-bottom: 0;
 					}
+					#main > .panel.intro header h3 {
+						line-height: 1.25em;
+					}
 
 					#main > .panel.intro header p {
+						line-height: 1.1em;
 						letter-spacing: -0.015em;
 						font-size: 1em;
-						margin: 0.25em 0 0 0;
 						color:#61615F
 					}
 
 					#main > .panel.intro header .role {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
-						margin: 0.25em 0 0 0;
 						color:#993bff
 					}
 
@@ -2191,13 +2193,19 @@ input, select, textarea {
 /* Pubs */
 
 #pubs header p {
-    color: #61615F;
+    line-height: 1.1em;
+	letter-spacing: -0.015em;
+	font-size: 1em;
+	color: #61615F;
 }
 
 /* CV */
 
 #pubs header p {
-    color: #61615F;
+    line-height: 1.1em;
+	letter-spacing: -0.015em;
+	font-size: 1em;
+	color: #61615F;
 }
 
 /* Footer */
