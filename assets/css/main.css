@@ -1311,9 +1311,9 @@ input, select, textarea {
 
 	body {
         background: #361a54;
-        background: linear-gradient(120deg,#993bff,#361a54 60%);
-        background: -moz-linear-gradient(120deg,#993bff, #361a54 60%);
-        background: -webkit-linear-gradient(120deg,#993bff, #361a54 60%);
+        background: linear-gradient(120deg,#993bffCC,#361a54 60%);
+        background: -moz-linear-gradient(120deg,#993bffCC, #361a54 60%);
+        background: -webkit-linear-gradient(120deg,#993bffCC, #361a54 60%);
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
