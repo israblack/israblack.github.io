@@ -1,5 +1,5 @@
-Isra Black's personal academic website, based on the Astral theme by HTML5 UP.
+Isra Black's personal academic website.
 
-Astral by HTML5 UP
-html5up.net | @ajlkn
+Based on Astral by HTML5 UP
+html5up.net
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
