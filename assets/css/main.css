@@ -1387,7 +1387,7 @@ input, select, textarea {
 	}
 
 	h3, h4, h5, h6 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		letter-spacing: -0.015em;
 	}
 	
@@ -1395,6 +1395,7 @@ input, select, textarea {
 		font-size: 1em;
 		letter-spacing: -0.015em;
 	}
+	
 	@media screen and (max-width: 736px) {
 
 		h1 {
